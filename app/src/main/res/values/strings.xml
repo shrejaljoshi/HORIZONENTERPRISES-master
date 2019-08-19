@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HORIZON ENTERPRISES</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="school_details">School Details</string>
+    <string name="home">Home</string>
+    <string name="Logout">Logout</string>
+    <string name="are_you_sure_you_want_to_logout">Are you sure you want to logout</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit_app">Exit app</string>
+    <string name="exit_from_application">Exit from application</string>
+</resources>
